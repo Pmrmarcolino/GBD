@@ -1,0 +1,6 @@
+TABELAHUGO
+4
+id int
+descricao varchar
+quantidade int
+valor int

@@ -1,0 +1,6 @@
+Schema_BD_v1
+TABELAHUGO 4
+id  int
+descricao  varchar
+quantidade  int
+valor  int
